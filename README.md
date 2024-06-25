@@ -1,6 +1,6 @@
 # calculo_imposto
 
-A new Flutter project.
+Projeto desenvolvido em Flutter para trabalho da faculdade, para fins estudantis.
 
 ## Getting Started
 
